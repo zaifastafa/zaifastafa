@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/zaifastafa/zaifastafa/master/assets/header.jpeg "Header")](https://huzaifamustafa.com/)
+
+### Hi there! 👋
 
 I am a professional full-stack developer who simply :blue_heart: to code!
 
@@ -22,18 +24,22 @@ Here are some ideas to get you started:
 
 [![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
 
-📫 How to reach me: [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
+📫 How to reach me: 
+<img width="16" height="16" src="https://raw.githubusercontent.com/zaifastafa/zaifastafa/master/assets/twitter.svg"> 
+or on 
+<img width="16" height="16" src="https://raw.githubusercontent.com/zaifastafa/zaifastafa/master/assets/linkedin.svg">
 
 :computer: https://huzaifamustafa.com
-
-<!-- Actual text -->
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/zaifastafa
 [2]: https://www.linkedin.com/in/zaifastafa/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
