@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/zaifastafa/zaifastafa/master/assets/header.jpeg "Header")](https://huzaifamustafa.com/)
+[![Header](https://github.com/zaifastafa/zaifastafa/blob/master/assets/header.jpeg "Header")](https://huzaifamustafa.com/)
 
 ### Hi there! 👋
 
@@ -24,12 +24,15 @@ Here are some ideas to get you started:
 
 [![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
 
-📫 How to reach me: 
-<img width="16" height="16" src="https://raw.githubusercontent.com/zaifastafa/zaifastafa/master/assets/twitter.svg"> 
-or on 
-<img width="16" height="16" src="https://raw.githubusercontent.com/zaifastafa/zaifastafa/master/assets/linkedin.svg">
+📫 How to reach me
+[![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 :computer: https://huzaifamustafa.com
+
+<!-- links to media -->
+
+[1.1]: https://github.com/zaifastafa/zaifastafa/blob/master/assets/twitter.svg
+[2.1]: https://github.com/zaifastafa/zaifastafa/blob/master/assets/linkedin.svg
 
 <!-- Links to your social media accounts -->
 
