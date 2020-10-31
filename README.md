@@ -24,15 +24,14 @@ Here are some ideas to get you started:
 
 [![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
 
-📫 How to reach me
-[![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
+📫 How to reach me [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2].
 
 :computer: https://huzaifamustafa.com
 
 <!-- links to media -->
 
-[1.1]: https://github.com/zaifastafa/zaifastafa/blob/master/assets/twitter.svg
-[2.1]: https://github.com/zaifastafa/zaifastafa/blob/master/assets/linkedin.svg
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
