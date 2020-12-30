@@ -1,4 +1,4 @@
-[![Header](https://github.com/zaifastafa/zaifastafa/blob/master/assets/header.jpeg "Header")](https://huzaifamustafa.com/)
+[![Header](https://github.com/zaifastafa/zaifastafa/blob/master/assets/header.jpeg "Header")](https://www.huzaifamustafa.com/)
 
 ### Hi there! 👋
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2].
 
-:computer: https://huzaifamustafa.com
+:computer: https://www.huzaifamustafa.com
 
 <!-- links to media -->
 
