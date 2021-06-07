@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
 
 ### 📫 How to reach me:
 
