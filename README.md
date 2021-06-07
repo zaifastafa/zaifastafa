@@ -2,19 +2,6 @@
 
 My name is Huzaifa Mustafa, and I am a professional full-stack developer who simply :blue_heart: to code!
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### About me 
 
 - 🔭 I’m currently working on the Shopware e-commerce platform
@@ -31,11 +18,3 @@ Here are some ideas to get you started:
 - Website: https://huzaifamustafa.com
 - Twitter: https://twitter.com/zaifastafa
 - LinkedIn: https://www.linkedin.com/in/zaifastafa/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
