@@ -1,5 +1,3 @@
-[![Header](https://github.com/zaifastafa/zaifastafa/blob/master/assets/header.jpeg "Header")](https://www.huzaifamustafa.com/)
-
 ### Hi there! 👋
 
 I am a professional full-stack developer who simply :blue_heart: to code!
@@ -24,19 +22,15 @@ Here are some ideas to get you started:
 
 [![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
 
-📫 How to reach me [![Twitter][1.1]][1] or on [![LinkedIn][2.1]][2].
+📫 How to reach me:
 
-:computer: https://www.huzaifamustafa.com
-
-<!-- links to media -->
-
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+Website: https://huzaifamustafa.com
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/zaifastafa
-[2]: https://www.linkedin.com/in/zaifastafa/
+Twitter: https://twitter.com/zaifastafa
+
+LinkedIn: https://www.linkedin.com/in/zaifastafa/
 
 
 <!-- Resources -->
