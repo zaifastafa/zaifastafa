@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About me 
+
 - 🔭 I’m currently working on the Shopware e-commerce platform
 - :briefcase: I’m looking to collaborate on freelance projects especially for Shopware 5 and 6 plugins
 - :musical_keyboard: I love to travel, and I sometimes like to play my Yamaha keyboard as a casual pasttime activity. 
@@ -22,15 +24,13 @@ Here are some ideas to get you started:
 
 [![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
 
-📫 How to reach me:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa)
 
-Website: https://huzaifamustafa.com
+### 📫 How to reach me:
 
-<!-- Links to your social media accounts -->
-
-Twitter: https://twitter.com/zaifastafa
-
-LinkedIn: https://www.linkedin.com/in/zaifastafa/
+- Website: https://huzaifamustafa.com
+- Twitter: https://twitter.com/zaifastafa
+- LinkedIn: https://www.linkedin.com/in/zaifastafa/
 
 
 <!-- Resources -->
