@@ -15,6 +15,6 @@ My name is Huzaifa Mustafa, and I am a professional full-stack developer who sim
 
 ### 📫 How to reach me:
 
-- Website: https://huzaifamustafa.com
-- Twitter: https://twitter.com/zaifastafa
+- Website: https://www.huzaifamustafa.com
+- Twitter: [@zaifastafa](https://twitter.com/zaifastafa)
 - LinkedIn: https://www.linkedin.com/in/zaifastafa/
