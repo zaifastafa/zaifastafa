@@ -16,6 +16,6 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 ### 📫 How to reach me:
 
 - Email: hello@huzaifamustafa.com
-- Website: [huzaifamustafa.com](https://huzaifamustafa.com)
+- Website: [huzaifamustafa](https://huzaifamustafa.com)
 - Twitter: [@_huzaifamustafa](https://twitter.com/_huzaifamustafa)
 - LinkedIn: [Huzaifa Mustafa](https://www.linkedin.com/in/zaifastafa/)
