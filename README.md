@@ -9,9 +9,9 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - :musical_keyboard: I love to travel, and sometimes I casually like to play on my Yamaha piano as a past-time activity. 
 - :man_technologist: If I am not working, you will still find me on the laptop either coding, or learning something, or reading something tech related. 
 
-[![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
+[![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=zaifastafa&count_private=true)](https://github.com/zaifastafa/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa)](https://github.com/zaifastafa/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa&count_private=true)](https://github.com/zaifastafa/github-readme-stats)
 
 ### 📫 How to reach me:
 
