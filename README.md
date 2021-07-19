@@ -20,7 +20,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaifastafa&count_private=true">
-  <img src="https://activity-graph.herokuapp.com/graph?username=zaifastafa&bg_color=FFFFFF&color=000000&line=000000&point=00FF00&count_private=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=zaifastafa&bg_color=FFFFFF&color=000000&line=ffde29&point=000000&count_private=true">
 </div>
 
 ### 📫 How to reach me:
