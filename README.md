@@ -14,14 +14,16 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 :man_technologist: If I am not working, you will still find me on the laptop either coding, or learning something, or reading something tech related. 
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=zaifastafa&show_icons=true&count_private=true"> 
-  <img width="33.33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa&layout=compact&count_private=true">
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaifastafa&count_private=true">
-  <img src="https://activity-graph.herokuapp.com/graph?username=zaifastafa&bg_color=FFFFFF&color=000000&line=ffde29&point=000000&count_private=true">
-</div>
+<br>
+
+|![](https://github-readme-stats.vercel.app/api?username=zaifastafa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa&layout=compact&theme=tokyonight&langs_count=10&private=true)|
+|-|-|
+
+![](https://activity-graph.herokuapp.com/graph?username=zaifastafa&theme=redical&private=true)
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=zaifastafa" alt="zaifastafa"/> </p>  </p>
+<br>
 
 ### 📫 How to reach me:
 
