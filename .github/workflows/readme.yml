@@ -1,15 +1,12 @@
-name: 'Readme Generator'
+name: Update README
+
 on:
   push:
-    branches:
-     - master
   schedule:
-     - cron: "0 */1 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
-  readme:
-    name: "Readme generator"
-
+  markscribe:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update README
+          commit_message: Update generated README
           branch: master
           commit_user_name: zaifastafa
           commit_user_email: hello@huzaifamustafa.com
