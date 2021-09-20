@@ -21,7 +21,14 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
----
+----
+
+#### 🔨 My recent PRs
+{{range recentPullRequests 10}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+----
 
 <br>
 <p align="center">
