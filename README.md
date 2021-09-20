@@ -27,19 +27,6 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (6 months ago)
 - [zaifastafa/shopify-demo-app](https://github.com/zaifastafa/shopify-demo-app) -  (8 months ago)
 
-#### 🌱 My latest projects
-
-- [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development.
-- [zaifastafa/shopify-demo-app](https://github.com/zaifastafa/shopify-demo-app) - 
-- [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup
-- [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game
-- [zaifastafa/memory-game](https://github.com/zaifastafa/memory-game) - A nice fun HTML memory game in an electron wrapper
-- [zaifastafa/magento-docker](https://github.com/zaifastafa/magento-docker) - Customized docker setup for Magento based on the hansphung docker images
-- [zaifastafa/simple-unit-test](https://github.com/zaifastafa/simple-unit-test) - Simple PHPUnit testing example
-- [zaifastafa/quiz_with_vue](https://github.com/zaifastafa/quiz_with_vue) - A basic quiz application based on Vue
-- [zaifastafa/fun-with-math](https://github.com/zaifastafa/fun-with-math) - Basic Fun with Math Game
-- [zaifastafa/responsive-web-tutorial-course](https://github.com/zaifastafa/responsive-web-tutorial-course) - A responsive website tutorial using Bootstrap
-
 #### 🔭 Latest releases I've contributed to
 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.4.1](https://github.com/shopware/platform/releases/tag/v6.4.4.1), 6 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
