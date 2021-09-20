@@ -2,9 +2,9 @@ name: 'Readme Generator'
 on:
   push:
     branches:
-     - main
+     - master
   schedule:
-    - cron: '0 1 * * *'
+     - cron: "0 */1 * * *"
 
 jobs:
   readme:
@@ -17,7 +17,7 @@ jobs:
 
       - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_BOT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
