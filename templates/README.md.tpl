@@ -17,16 +17,16 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 ----
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 9}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+{{end}}
 
 ----
 
 #### 🔨 My recent PRs
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{end}}
 
 ----
 
