@@ -18,29 +18,29 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (4 days ago)
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (1 week ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (5 days ago)
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (2 weeks ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (1 month ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (2 months ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (2 months ago)
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (4 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (6 months ago)
-- [zaifastafa/shopify-demo-app](https://github.com/zaifastafa/shopify-demo-app) -  (8 months ago)
+- [zaifastafa/shopify-demo-app](https://github.com/zaifastafa/shopify-demo-app) -  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.4.1](https://github.com/shopware/platform/releases/tag/v6.4.4.1), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([v2.1.2](https://github.com/findologic/plugin-shopware-6/releases/tag/v2.1.2), 4 weeks ago) - Findologic plugin for Shopware 6
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([v2.1.2](https://github.com/findologic/plugin-shopware-6/releases/tag/v2.1.2), 1 month ago) - Findologic plugin for Shopware 6
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.2), 2 months ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
 
-- [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (4 days ago)
+- [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (5 days ago)
 - [Sw 595 direct integration cat urls must be generated recursively](https://github.com/findologic/plugin-shopware-6/pull/196) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (2 months ago)
 - [Sw 582 separate route for dynamic product groups](https://github.com/findologic/plugin-shopware-6/pull/193) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 months ago)
 - [SW-606-range-slider-issue-fix](https://github.com/findologic/plugin-shopware-6/pull/188) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 months ago)
-- [SW-600-support-usage-of-pushattrib](https://github.com/findologic/plugin-shopware-6/pull/187) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 months ago)
+- [SW-600-support-usage-of-pushattrib](https://github.com/findologic/plugin-shopware-6/pull/187) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 months ago)
 - [Add breaking block to blacklist](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/pull/27) on [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) (4 months ago)
 - [Sw 599 explicitly searching for the variant number](https://github.com/findologic/plugin-shopware-6/pull/183) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 months ago)
 - [Add action modal template for order-line-items-grid component](https://github.com/shopware/platform/pull/1729) on [shopware/platform](https://github.com/shopware/platform) (6 months ago)
