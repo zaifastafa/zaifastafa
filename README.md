@@ -29,7 +29,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.5.1](https://github.com/shopware/platform/releases/tag/v6.4.5.1), 4 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.5.1](https://github.com/shopware/platform/releases/tag/v6.4.5.1), 5 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.2.0](https://github.com/findologic/plugin-shopware-6/releases/tag/2.2.0), 2 weeks ago) - Findologic plugin for Shopware 6
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.2), 2 months ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
