@@ -18,20 +18,20 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 👷 Check out what I'm currently working on
 
-- [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (6 days ago)
+- [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (1 week ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 month ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (1 month ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (2 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (3 months ago)
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (4 months ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (6 months ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (7 months ago)
 - [zaifastafa/shopify-demo-app](https://github.com/zaifastafa/shopify-demo-app) -  (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.5.1](https://github.com/shopware/platform/releases/tag/v6.4.5.1), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.2.0](https://github.com/findologic/plugin-shopware-6/releases/tag/2.2.0), 3 weeks ago) - Findologic plugin for Shopware 6
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.2), 2 months ago) - Helpful development tools
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.2), 3 months ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
@@ -44,7 +44,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [SW-600-support-usage-of-pushattrib](https://github.com/findologic/plugin-shopware-6/pull/187) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 months ago)
 - [Add breaking block to blacklist](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/pull/27) on [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) (4 months ago)
 - [Sw 599 explicitly searching for the variant number](https://github.com/findologic/plugin-shopware-6/pull/183) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
-- [Add action modal template for order-line-items-grid component](https://github.com/shopware/platform/pull/1729) on [shopware/platform](https://github.com/shopware/platform) (6 months ago)
+- [Add action modal template for order-line-items-grid component](https://github.com/shopware/platform/pull/1729) on [shopware/platform](https://github.com/shopware/platform) (7 months ago)
 - [SW-583_shopkey_validations](https://github.com/findologic/plugin-shopware-6/pull/176) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (7 months ago)
 
 ----
