@@ -40,7 +40,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 month ago)
 - [Sw 595 direct integration cat urls must be generated recursively](https://github.com/findologic/plugin-shopware-6/pull/196) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 months ago)
 - [Sw 582 separate route for dynamic product groups](https://github.com/findologic/plugin-shopware-6/pull/193) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 months ago)
-- [SW-606-range-slider-issue-fix](https://github.com/findologic/plugin-shopware-6/pull/188) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 months ago)
+- [SW-606-range-slider-issue-fix](https://github.com/findologic/plugin-shopware-6/pull/188) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
 - [SW-600-support-usage-of-pushattrib](https://github.com/findologic/plugin-shopware-6/pull/187) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
 - [Add breaking block to blacklist](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/pull/27) on [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) (5 months ago)
 - [Sw 599 explicitly searching for the variant number](https://github.com/findologic/plugin-shopware-6/pull/183) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
