@@ -18,7 +18,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 👷 Check out what I'm currently working on
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (2 days ago)
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (3 days ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (3 weeks ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 month ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (1 month ago)
@@ -30,7 +30,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.6.0](https://github.com/shopware/platform/releases/tag/v6.4.6.0), 2 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.6.0](https://github.com/shopware/platform/releases/tag/v6.4.6.0), 3 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.5](https://github.com/mollie/Shopware6/releases/tag/v1.5.5), 1 week ago) - 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.2.0](https://github.com/findologic/plugin-shopware-6/releases/tag/2.2.0), 1 month ago) - Findologic plugin for Shopware 6
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.2), 3 months ago) - Helpful development tools
@@ -38,7 +38,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔨 My recent Pull Requests
 
-- [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (3 days ago)
+- [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (4 days ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (1 month ago)
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 month ago)
 - [Sw 595 direct integration cat urls must be generated recursively](https://github.com/findologic/plugin-shopware-6/pull/196) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 months ago)
