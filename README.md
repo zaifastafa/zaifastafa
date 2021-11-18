@@ -30,7 +30,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.7](https://github.com/mollie/Shopware6/releases/tag/v1.5.7), 2 days ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.7](https://github.com/mollie/Shopware6/releases/tag/v1.5.7), 3 days ago) - 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.2.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.2.1), 1 week ago) - Findologic plugin for Shopware 6
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 1 week ago) - Helpful development tools
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.6.0](https://github.com/shopware/platform/releases/tag/v6.4.6.0), 2 weeks ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
