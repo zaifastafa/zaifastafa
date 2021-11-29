@@ -30,9 +30,9 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.6.1](https://github.com/shopware/platform/releases/tag/v6.4.6.1), 4 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.3.0](https://github.com/findologic/plugin-shopware-6/releases/tag/2.3.0), 5 days ago) - Findologic plugin for Shopware 6
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.7](https://github.com/mollie/Shopware6/releases/tag/v1.5.7), 1 week ago) - 
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.6.1](https://github.com/shopware/platform/releases/tag/v6.4.6.1), 5 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.3.0](https://github.com/findologic/plugin-shopware-6/releases/tag/2.3.0), 6 days ago) - Findologic plugin for Shopware 6
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.7](https://github.com/mollie/Shopware6/releases/tag/v1.5.7), 2 weeks ago) - 
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 3 weeks ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
