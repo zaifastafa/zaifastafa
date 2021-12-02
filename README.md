@@ -38,7 +38,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔨 My recent Pull Requests
 
-- [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (4 weeks ago)
+- [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (1 month ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (2 months ago)
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (2 months ago)
 - [Sw 595 direct integration cat urls must be generated recursively](https://github.com/findologic/plugin-shopware-6/pull/196) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 months ago)
