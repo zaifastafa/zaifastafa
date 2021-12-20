@@ -24,14 +24,14 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (3 months ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (4 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (5 months ago)
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (6 months ago)
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (7 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (9 months ago)
 - [zaifastafa/shopify-demo-app](https://github.com/zaifastafa/shopify-demo-app) -  (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.4.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.4.1), 3 days ago) - Findologic plugin for Shopware 6
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.8](https://github.com/mollie/Shopware6/releases/tag/v1.5.8), 5 days ago) - 
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.4.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.4.1), 4 days ago) - Findologic plugin for Shopware 6
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.8](https://github.com/mollie/Shopware6/releases/tag/v1.5.8), 6 days ago) - 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 1 month ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
@@ -43,10 +43,10 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (2 months ago)
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (3 months ago)
 - [Sw 595 direct integration cat urls must be generated recursively](https://github.com/findologic/plugin-shopware-6/pull/196) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
-- [SW-582_separate_route_for_dynamic_product_groups](https://github.com/findologic/plugin-shopware-6/pull/193) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
+- [SW-582_separate_route_for_dynamic_product_groups](https://github.com/findologic/plugin-shopware-6/pull/193) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (6 months ago)
 - [SW-606-range-slider-issue-fix](https://github.com/findologic/plugin-shopware-6/pull/188) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (6 months ago)
 - [SW-600-support-usage-of-pushattrib](https://github.com/findologic/plugin-shopware-6/pull/187) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (6 months ago)
-- [Add breaking block to blacklist](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/pull/27) on [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) (6 months ago)
+- [Add breaking block to blacklist](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/pull/27) on [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) (7 months ago)
 - [Sw 599 explicitly searching for the variant number](https://github.com/findologic/plugin-shopware-6/pull/183) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (7 months ago)
 
 ----
