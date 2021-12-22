@@ -30,7 +30,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.4.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.4.1), 5 days ago) - Findologic plugin for Shopware 6
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.4.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.4.1), 6 days ago) - Findologic plugin for Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.8](https://github.com/mollie/Shopware6/releases/tag/v1.5.8), 1 week ago) - 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 1 month ago) - Helpful development tools
@@ -38,7 +38,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔨 My recent Pull Requests
 
-- [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 week ago)
+- [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (2 weeks ago)
 - [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (1 month ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (3 months ago)
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (3 months ago)
