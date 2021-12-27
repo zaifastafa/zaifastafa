@@ -26,7 +26,6 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (5 months ago)
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (7 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (9 months ago)
-- [zaifastafa/shopify-demo-app](https://github.com/zaifastafa/shopify-demo-app) -  (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
