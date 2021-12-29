@@ -37,7 +37,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔨 My recent Pull Requests
 
-- [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (2 weeks ago)
+- [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 weeks ago)
 - [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (1 month ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (3 months ago)
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (3 months ago)
