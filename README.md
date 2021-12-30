@@ -25,13 +25,13 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (5 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (5 months ago)
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (7 months ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (9 months ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.4.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.4.1), 1 week ago) - Findologic plugin for Shopware 6
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.4.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.4.1), 2 weeks ago) - Findologic plugin for Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.8](https://github.com/mollie/Shopware6/releases/tag/v1.5.8), 2 weeks ago) - 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 2 weeks ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 1 month ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
