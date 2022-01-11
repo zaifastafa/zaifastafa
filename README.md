@@ -18,7 +18,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (6 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 week ago)
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (2 months ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (3 months ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (4 months ago)
@@ -30,15 +30,15 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 🔭 Latest releases I've contributed to
 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.4.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.4.1), 3 weeks ago) - Findologic plugin for Shopware 6
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.8](https://github.com/mollie/Shopware6/releases/tag/v1.5.8), 3 weeks ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.8](https://github.com/mollie/Shopware6/releases/tag/v1.5.8), 4 weeks ago) - 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 2 months ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
 
-- [Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 days ago)
-- [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (6 days ago)
+- [Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 days ago)
+- [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 week ago)
 - [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 month ago)
 - [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (2 months ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (3 months ago)
