@@ -37,7 +37,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔨 My recent Pull Requests
 
-- [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (6 days ago)
+- [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 week ago)
 - [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 week ago)
 - [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 month ago)
 - [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (2 months ago)
