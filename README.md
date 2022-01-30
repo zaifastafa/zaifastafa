@@ -29,7 +29,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.6.0](https://github.com/findologic/plugin-shopware-6/releases/tag/2.6.0), 3 days ago) - Findologic plugin for Shopware 6
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.6.0](https://github.com/findologic/plugin-shopware-6/releases/tag/2.6.0), 4 days ago) - Findologic plugin for Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v1.5.8](https://github.com/mollie/Shopware6/releases/tag/v1.5.8), 1 month ago) - 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 2 months ago) - Helpful development tools
