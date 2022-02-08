@@ -21,7 +21,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (3 weeks ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 month ago)
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (3 months ago)
-- [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (3 months ago)
+- [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (4 months ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (6 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (6 months ago)
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (8 months ago)
