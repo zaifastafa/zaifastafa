@@ -24,20 +24,20 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (4 months ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (6 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (7 months ago)
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (8 months ago)
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (9 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.1.1](https://github.com/mollie/Shopware6/releases/tag/v2.1.1), 1 day ago) - 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.8.1](https://github.com/shopware/platform/releases/tag/v6.4.8.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.1.1](https://github.com/mollie/Shopware6/releases/tag/v2.1.1), 2 days ago) - 
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.8.1](https://github.com/shopware/platform/releases/tag/v6.4.8.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.6.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.6.1), 1 week ago) - Findologic plugin for Shopware 6
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 3 months ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
 
-- [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (3 days ago)
+- [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (4 days ago)
 - [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 month ago)
 - [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 month ago)
 - [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (2 months ago)
@@ -45,7 +45,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (4 months ago)
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (5 months ago)
 - [Sw 595 direct integration cat urls must be generated recursively](https://github.com/findologic/plugin-shopware-6/pull/196) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (7 months ago)
-- [SW-582_separate_route_for_dynamic_product_groups](https://github.com/findologic/plugin-shopware-6/pull/193) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (7 months ago)
+- [SW-582_separate_route_for_dynamic_product_groups](https://github.com/findologic/plugin-shopware-6/pull/193) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (8 months ago)
 - [SW-606-range-slider-issue-fix](https://github.com/findologic/plugin-shopware-6/pull/188) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (8 months ago)
 
 ----
