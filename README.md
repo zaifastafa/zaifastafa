@@ -20,7 +20,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (1 month ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 month ago)
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (3 months ago)
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (4 months ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (4 months ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (7 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (7 months ago)
@@ -37,7 +37,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔨 My recent Pull Requests
 
-- [SW-659_separate_route_for_export_debug_information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 day ago)
+- [SW-659_separate_route_for_export_debug_information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (2 days ago)
 - [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (2 weeks ago)
 - [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 month ago)
 - [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 month ago)
