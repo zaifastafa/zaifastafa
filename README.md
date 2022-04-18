@@ -29,8 +29,8 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.8.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.8.1), 3 days ago) - Findologic plugin for Shopware 6
-- [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.1](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.1), 4 days ago) - Generate a CMS element scaffolding within seconds.
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.8.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.8.1), 4 days ago) - Findologic plugin for Shopware 6
+- [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.1](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.1), 5 days ago) - Generate a CMS element scaffolding within seconds.
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.2.0](https://github.com/mollie/Shopware6/releases/tag/v2.2.0), 3 weeks ago) - 
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 5 months ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
