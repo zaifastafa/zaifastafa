@@ -19,7 +19,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 👷 Check out what I'm currently working on
 
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 weeks ago)
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (3 months ago)
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (4 months ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (4 months ago)
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (6 months ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (7 months ago)
@@ -30,10 +30,10 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.2.2](https://github.com/mollie/Shopware6/releases/tag/v2.2.2), 5 days ago) - 
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.8.2](https://github.com/findologic/plugin-shopware-6/releases/tag/2.8.2), 1 day ago) - Findologic plugin for Shopware 6
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.2.2](https://github.com/mollie/Shopware6/releases/tag/v2.2.2), 6 days ago) - 
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 1 week ago) - Generate a CMS element scaffolding within seconds.
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.11.1](https://github.com/shopware/platform/releases/tag/v6.4.11.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.8.1](https://github.com/findologic/plugin-shopware-6/releases/tag/2.8.1), 1 month ago) - Findologic plugin for Shopware 6
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 6 months ago) - Helpful development tools
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
