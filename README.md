@@ -29,7 +29,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.8.2](https://github.com/findologic/plugin-shopware-6/releases/tag/2.8.2), 2 weeks ago) - Findologic plugin for Shopware 6
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.8.2](https://github.com/findologic/plugin-shopware-6/releases/tag/2.8.2), 3 weeks ago) - Findologic plugin for Shopware 6
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.2.2](https://github.com/mollie/Shopware6/releases/tag/v2.2.2), 3 weeks ago) - 
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 1 month ago) - Generate a CMS element scaffolding within seconds.
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.11.1](https://github.com/shopware/platform/releases/tag/v6.4.11.1), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
@@ -41,9 +41,9 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (1 month ago)
 - [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (3 months ago)
 - [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (3 months ago)
-- [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (4 months ago)
+- [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
 - [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (5 months ago)
-- [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
+- [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (6 months ago)
 - [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (7 months ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (8 months ago)
 - [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (8 months ago)
