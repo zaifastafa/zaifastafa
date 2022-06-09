@@ -25,7 +25,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (8 months ago)
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) - Generate a CMS element scaffolding within seconds. (8 months ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (10 months ago)
-- [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (10 months ago)
+- [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
