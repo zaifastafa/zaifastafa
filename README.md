@@ -30,7 +30,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 🔭 Latest releases I've contributed to
 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([2.8.2](https://github.com/findologic/plugin-shopware-6/releases/tag/2.8.2), 3 weeks ago) - Findologic plugin for Shopware 6
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.2.2](https://github.com/mollie/Shopware6/releases/tag/v2.2.2), 4 weeks ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.2.2](https://github.com/mollie/Shopware6/releases/tag/v2.2.2), 1 month ago) - 
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 1 month ago) - Generate a CMS element scaffolding within seconds.
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.11.1](https://github.com/shopware/platform/releases/tag/v6.4.11.1), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
