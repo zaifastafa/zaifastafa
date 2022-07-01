@@ -18,11 +18,11 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 👷 Check out what I'm currently working on
 
-- [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (1 day ago)
+- [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (2 days ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 months ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (5 months ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (5 months ago)
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (7 months ago)
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (8 months ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (8 months ago)
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) - Generate a CMS element scaffolding within seconds. (9 months ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (11 months ago)
