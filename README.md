@@ -29,7 +29,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.3.0](https://github.com/mollie/Shopware6/releases/tag/v2.3.0), 1 day ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.3.0](https://github.com/mollie/Shopware6/releases/tag/v2.3.0), 2 days ago) - 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.0](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.0), 1 week ago) - Findologic plugin for Shopware 6
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.13.0](https://github.com/shopware/platform/releases/tag/v6.4.13.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 2 months ago) - Generate a CMS element scaffolding within seconds.
