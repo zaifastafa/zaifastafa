@@ -22,7 +22,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 months ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (6 months ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (6 months ago)
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (8 months ago)
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (9 months ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (9 months ago)
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) - Generate a CMS element scaffolding within seconds. (10 months ago)
 - [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (1 year ago)
