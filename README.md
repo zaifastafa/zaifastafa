@@ -25,13 +25,12 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (9 months ago)
 - [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (9 months ago)
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) - Generate a CMS element scaffolding within seconds. (10 months ago)
-- [zaifastafa/huzaifa-blog](https://github.com/zaifastafa/huzaifa-blog) - Personal blog to talk about technology, tips and tricks, and general helpful resources for web development. (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.3.0](https://github.com/mollie/Shopware6/releases/tag/v2.3.0), 2 weeks ago) - 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.0](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.0), 3 weeks ago) - Findologic plugin for Shopware 6
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.13.0](https://github.com/shopware/platform/releases/tag/v6.4.13.0), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.13.0](https://github.com/shopware/platform/releases/tag/v6.4.13.0), 4 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 2 months ago) - Generate a CMS element scaffolding within seconds.
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
