@@ -23,13 +23,13 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (6 months ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (7 months ago)
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) -  (9 months ago)
-- [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (9 months ago)
+- [zaifastafa/eztrivia](https://github.com/zaifastafa/eztrivia) - A challenging trivia web game (10 months ago)
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) - Generate a CMS element scaffolding within seconds. (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.3.1](https://github.com/mollie/Shopware6/releases/tag/v2.3.1), 5 days ago) - 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.14.0](https://github.com/shopware/platform/releases/tag/v6.4.14.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.3.1](https://github.com/mollie/Shopware6/releases/tag/v2.3.1), 6 days ago) - 
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.14.0](https://github.com/shopware/platform/releases/tag/v6.4.14.0), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.0](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.0), 1 month ago) - Findologic plugin for Shopware 6
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 3 months ago) - Generate a CMS element scaffolding within seconds.
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
