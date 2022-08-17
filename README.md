@@ -29,7 +29,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.4.0](https://github.com/mollie/Shopware6/releases/tag/v2.4.0), 6 days ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.4.0](https://github.com/mollie/Shopware6/releases/tag/v2.4.0), 1 week ago) - 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.14.0](https://github.com/shopware/platform/releases/tag/v6.4.14.0), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.0](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.0), 1 month ago) - Findologic plugin for Shopware 6
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 3 months ago) - Generate a CMS element scaffolding within seconds.
@@ -37,6 +37,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔨 My recent Pull Requests
 
+- [Update plugin-base-guide.md](https://github.com/shopware/docs/pull/660) on [shopware/docs](https://github.com/shopware/docs) (1 day ago)
 - [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (3 months ago)
 - [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (3 months ago)
 - [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (5 months ago)
@@ -46,7 +47,6 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (8 months ago)
 - [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (9 months ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (10 months ago)
-- [Remove DEFINER from sql dump](https://github.com/shyim/shopware-docker/pull/127) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (11 months ago)
 
 ----
 
