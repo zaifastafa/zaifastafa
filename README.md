@@ -30,15 +30,15 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.1](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.1), 6 days ago) - Findologic plugin for Shopware 6
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v2.5.0](https://github.com/mollie/Shopware6/releases/tag/v2.5.0), 2 weeks ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v3.0.0](https://github.com/mollie/Shopware6/releases/tag/v3.0.0), 1 day ago) - 
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.1](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.1), 1 week ago) - Findologic plugin for Shopware 6
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.14.0](https://github.com/shopware/platform/releases/tag/v6.4.14.0), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) ([1.0.2](https://github.com/Shape-and-Shift/shopware-cms-generator/releases/tag/1.0.2), 4 months ago) - Generate a CMS element scaffolding within seconds.
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
 
-- [Update plugin-base-guide.md](https://github.com/shopware/docs/pull/660) on [shopware/docs](https://github.com/shopware/docs) (3 weeks ago)
+- [Update plugin-base-guide.md](https://github.com/shopware/docs/pull/660) on [shopware/docs](https://github.com/shopware/docs) (4 weeks ago)
 - [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (4 months ago)
 - [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (4 months ago)
 - [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (6 months ago)
