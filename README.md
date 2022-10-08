@@ -19,7 +19,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 👷 Check out what I'm currently working on
 
 - [shopware/docs](https://github.com/shopware/docs) -  (1 month ago)
-- [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (1 month ago)
+- [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (2 months ago)
 - [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (3 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (5 months ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (8 months ago)
@@ -29,7 +29,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.15.2](https://github.com/shopware/platform/releases/tag/v6.4.15.2), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.15.2](https://github.com/shopware/platform/releases/tag/v6.4.15.2), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v3.1.0](https://github.com/mollie/Shopware6/releases/tag/v3.1.0), 1 week ago) - 
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.1](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.1), 1 month ago) - Findologic plugin for Shopware 6
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
