@@ -21,7 +21,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [synhex-solutions/basic-calculator-html](https://github.com/synhex-solutions/basic-calculator-html) -  (3 weeks ago)
 - [shopware/docs](https://github.com/shopware/docs) -  (2 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (2 months ago)
-- [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (3 months ago)
+- [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (4 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (6 months ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (9 months ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (9 months ago)
@@ -29,9 +29,9 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.16.1](https://github.com/shopware/platform/releases/tag/v6.4.16.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.16.1](https://github.com/shopware/platform/releases/tag/v6.4.16.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([3.1.2](https://github.com/findologic/plugin-shopware-6/releases/tag/3.1.2), 1 week ago) - Findologic plugin for Shopware 6
-- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v3.2.0](https://github.com/mollie/Shopware6/releases/tag/v3.2.0), 1 week ago) - 
+- [mollie/Shopware6](https://github.com/mollie/Shopware6) ([v3.2.0](https://github.com/mollie/Shopware6/releases/tag/v3.2.0), 2 weeks ago) - 
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
@@ -39,7 +39,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [Update plugin-base-guide.md](https://github.com/shopware/docs/pull/660) on [shopware/docs](https://github.com/shopware/docs) (2 months ago)
 - [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (6 months ago)
 - [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (6 months ago)
-- [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (7 months ago)
+- [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (8 months ago)
 - [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (8 months ago)
 - [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (9 months ago)
 - [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (9 months ago)
