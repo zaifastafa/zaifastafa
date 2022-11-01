@@ -18,7 +18,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 👷 Check out what I'm currently working on
 
-- [synhex-solutions/basic-calculator-html](https://github.com/synhex-solutions/basic-calculator-html) -  (3 weeks ago)
+- [synhex-solutions/basic-calculator-html](https://github.com/synhex-solutions/basic-calculator-html) -  (4 weeks ago)
 - [shopware/docs](https://github.com/shopware/docs) -  (2 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (2 months ago)
 - [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (4 months ago)
