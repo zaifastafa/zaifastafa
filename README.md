@@ -19,7 +19,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 👷 Check out what I'm currently working on
 
 - [synhex-solutions/basic-calculator-html](https://github.com/synhex-solutions/basic-calculator-html) -  (1 month ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 months ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (3 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (3 months ago)
 - [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (4 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (6 months ago)
@@ -28,8 +28,8 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.17.1](https://github.com/shopware/platform/releases/tag/v6.4.17.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([4.0.0-RC3](https://github.com/findologic/plugin-shopware-6/releases/tag/4.0.0-RC3), 5 days ago) - Findologic plugin for Shopware 6
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.17.1](https://github.com/shopware/platform/releases/tag/v6.4.17.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([4.0.0-RC3](https://github.com/findologic/plugin-shopware-6/releases/tag/4.0.0-RC3), 6 days ago) - Findologic plugin for Shopware 6
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 2 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
