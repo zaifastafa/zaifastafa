@@ -22,7 +22,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 - [shopware/docs](https://github.com/shopware/docs) -  (4 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (4 months ago)
 - [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (5 months ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (7 months ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (8 months ago)
 - [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (11 months ago)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (11 months ago)
 
@@ -35,8 +35,8 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 🔨 My recent Pull Requests
 
 - [Update plugin-base-guide.md](https://github.com/shopware/docs/pull/660) on [shopware/docs](https://github.com/shopware/docs) (4 months ago)
-- [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (7 months ago)
-- [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (7 months ago)
+- [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (8 months ago)
+- [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (8 months ago)
 - [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (9 months ago)
 - [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (10 months ago)
 - [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (11 months ago)
