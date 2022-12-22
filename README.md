@@ -28,8 +28,8 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([4.0.0](https://github.com/findologic/plugin-shopware-6/releases/tag/4.0.0), 1 week ago) - Findologic plugin for Shopware 6
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.18.0](https://github.com/shopware/platform/releases/tag/v6.4.18.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([4.0.1](https://github.com/findologic/plugin-shopware-6/releases/tag/4.0.1), 1 day ago) - Findologic plugin for Shopware 6
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.18.0](https://github.com/shopware/platform/releases/tag/v6.4.18.0), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) ([0.2.0](https://github.com/shyim/shopware-docker/releases/tag/0.2.0), 3 years ago) - Easy to use Docker Installation for Shopware 5 and Shopware 6
 
 #### 🔨 My recent Pull Requests
