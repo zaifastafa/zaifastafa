@@ -8,7 +8,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 :briefcase: I’m looking to collaborate on freelance projects especially for Shopware plugins
 
-:musical_keyboard: I love to travel, and sometimes I casually like to play on my Yamaha piano as a past-time activity. 
+:musical_keyboard: I love to travel, and sometimes I casually like to play on my YamahaⓇ keyboard as a past-time activity. 
 
 :books: I have a [blog](https://blog.huzaifamustafa.com) where I sometimes write about technology.
 
