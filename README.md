@@ -19,7 +19,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 👷 Check out what I'm currently working on
 
 - [synhex-solutions/basic-calculator-html](https://github.com/synhex-solutions/basic-calculator-html) -  (3 months ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (4 months ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (5 months ago)
 - [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (5 months ago)
 - [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (6 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (8 months ago)
@@ -27,7 +27,7 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 #### 🔭 Latest releases I've contributed to
 
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([4.0.1](https://github.com/findologic/plugin-shopware-6/releases/tag/4.0.1), 3 weeks ago) - Findologic plugin for Shopware 6
+- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) ([4.0.2](https://github.com/findologic/plugin-shopware-6/releases/tag/4.0.2), 1 day ago) - Findologic plugin for Shopware 6
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.18.0](https://github.com/shopware/platform/releases/tag/v6.4.18.0), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 
 #### 🔨 My recent Pull Requests
