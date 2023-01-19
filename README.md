@@ -16,31 +16,34 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 
 ----
 
-#### 👷 Check out what I'm currently working on
-
-- [synhex-solutions/basic-calculator-html](https://github.com/synhex-solutions/basic-calculator-html) -  (3 months ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (5 months ago)
-- [zaifastafa/dockware](https://github.com/zaifastafa/dockware) - Custom dockware setup (5 months ago)
-- [HasanHaider1/D-Bargain](https://github.com/HasanHaider1/D-Bargain) - D-Bargain plugin to be built on multiple platforms. (6 months ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (8 months ago)
-- [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) - Findologic plugin for Shopware 6 (1 year ago)
-
 #### 🔭 Latest releases I've contributed to
 
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.18.1](https://github.com/shopware/platform/releases/tag/v6.4.18.1), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 
+#### 🔨 My recent Pull Requests
+
+- [Update plugin-base-guide.md](https://github.com/shopware/docs/pull/660) on [shopware/docs](https://github.com/shopware/docs) (5 months ago)
+- [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (8 months ago)
+- [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (8 months ago)
+- [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (10 months ago)
+- [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (11 months ago)
+- [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 year ago)
+- [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 year ago)
+- [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 year ago)
+- [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (1 year ago)
+- [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (1 year ago)
 ----
 
 <br>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaifastafa&count_private=true&layout=compact&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaifastafa&count_private=true&layout=compact">
 </p>
 
 
-|![](https://github-readme-stats.vercel.app/api?username=zaifastafa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa&layout=compact&theme=tokyonight)|
+|![](https://github-readme-stats.vercel.app/api?username=zaifastafa&&show_icons=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa&layout=compact)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=zaifastafa&theme=redical&count_private=true)
+![](https://activity-graph.herokuapp.com/graph?username=zaifastafa&count_private=true)
 
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=zaifastafa" alt="zaifastafa"/> </p>  </p>
