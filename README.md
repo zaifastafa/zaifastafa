@@ -23,8 +23,8 @@ My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: 
 #### 🔨 My recent Pull Requests
 
 - [Update plugin-base-guide.md](https://github.com/shopware/docs/pull/660) on [shopware/docs](https://github.com/shopware/docs) (6 months ago)
-- [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (9 months ago)
-- [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (9 months ago)
+- [sort price collection by price](https://github.com/shopware/platform/pull/2442) on [shopware/platform](https://github.com/shopware/platform) (10 months ago)
+- [Update ProductPriceCollection.php](https://github.com/zaifastafa/platform/pull/1) on [zaifastafa/platform](https://github.com/zaifastafa/platform) (10 months ago)
 - [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (11 months ago)
 - [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (1 year ago)
 - [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 year ago)
