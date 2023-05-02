@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Huzaifa Mustafa. I am a full-stack developer who simply :blue_heart: to code!
+My name is Huzaifa Mustafa. I am a full-stack, and Certified Advanced Shopware 6 Developer who simply :blue_heart: to code!
 
 ### About me 
 
