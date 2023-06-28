@@ -27,7 +27,7 @@ My name is Huzaifa Mustafa. I am a full-stack, and Certified Advanced Shopware 6
 - [SW-659 Add separate route for export debug information](https://github.com/findologic/plugin-shopware-6/pull/253) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 year ago)
 - [fix: tree item width in flow builder](https://github.com/shopware/platform/pull/2325) on [shopware/platform](https://github.com/shopware/platform) (1 year ago)
 - [SW-671 Composer 2 runtime api fix](https://github.com/findologic/plugin-shopware-6/pull/239) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (1 year ago)
-- [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (1 year ago)
+- [add default shopware cdn strategy in .env](https://github.com/shyim/shopware-docker/pull/138) on [shyim/shopware-docker](https://github.com/shyim/shopware-docker) (2 years ago)
 - [SW-613-exported-main-variant-config](https://github.com/findologic/plugin-shopware-6/pull/233) on [findologic/plugin-shopware-6](https://github.com/findologic/plugin-shopware-6) (2 years ago)
 - [Add check for refunds array if it is not undefined](https://github.com/mollie/Shopware6/pull/222) on [mollie/Shopware6](https://github.com/mollie/Shopware6) (2 years ago)
 - [Fix typo in name](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) on [Shape-and-Shift/shopware-cms-generator](https://github.com/Shape-and-Shift/shopware-cms-generator) (2 years ago)
