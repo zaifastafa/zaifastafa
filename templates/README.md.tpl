@@ -27,21 +27,6 @@ My name is Huzaifa Mustafa. I am a full-stack, and Certified Advanced Shopware 6
 {{- end}}
 ----
 
-<br>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaifastafa&count_private=true&layout=compact">
-</p>
-
-
-|![](https://github-readme-stats.vercel.app/api?username=zaifastafa&&show_icons=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaifastafa&layout=compact)|
-|-|-|
-
-![](https://activity-graph.herokuapp.com/graph?username=zaifastafa&count_private=true)
-
-<br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=zaifastafa" alt="zaifastafa"/> </p>  </p>
-<br>
-
 ### 📫 How to reach me:
 
 - Email: hello@huzaifamustafa.com
