@@ -1,35 +1,22 @@
 ### Hi there! 👋
 
-My name is Huzaifa Mustafa. I am a full-stack, and Certified Advanced Shopware 6 Developer who simply :blue_heart: to code!
+I'm Huzaifa Mustafa. I'm a full-stack developer and a Certified Advanced Shopware 6 Developer. I just really enjoy coding! :blue_heart:
 
-### About me 
+### About Me
 
-🔭 I’m currently working on the Shopware e-commerce platform
+🔭 I’m currently working with the Shopware e-commerce platform.
 
-:briefcase: I’m looking to collaborate on freelance projects especially for Shopware plugins
+💼 I’m open to collaborating on freelance projects, especially Shopware plugins.
 
-:musical_keyboard: I love to travel, and sometimes I casually like to play on my YamahaⓇ keyboard as a past-time activity. 
+🎹 I like to travel, and sometimes I play my YamahaⓇ keyboard for fun.
 
-:books: I have a [blog](https://blog.huzaifamustafa.com) where I sometimes write about technology.
+📚 I write about technology on my [blog](https://blog.huzaifamustafa.com).
 
-:man_technologist: If I am not working, you will still find me on the laptop either coding, or learning something, or reading something tech related. 
+💻 Even when I’m not working, you’ll probably find me coding, learning, or reading something tech-related.
 
-----
+### 📫 How to reach me
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-----
-
-### 📫 How to reach me:
-
-- Email: hello@huzaifamustafa.com
-- Website: [huzaifamustafa](https://huzaifamustafa.com)
-- Twitter: [@_huzaifamustafa](https://twitter.com/_huzaifamustafa)
+- Email: info@huzaifamustafa.com  
+- Website: [huzaifamustafa.com](https://huzaifamustafa.com)  
+- Twitter: [@_huzaifamustafa](https://twitter.com/_huzaifamustafa)  
 - LinkedIn: [Huzaifa Mustafa](https://www.linkedin.com/in/huzaifa-mustafa/)
