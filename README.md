@@ -1,18 +1,26 @@
-### Hi there! 👋
+## Hi, I’m Huzaifa Mustafa 👋
 
-I'm Huzaifa Mustafa. I'm a full-stack developer and a Certified Advanced Shopware 6 Developer. I just really enjoy coding! :blue_heart:
+Certified Advanced Shopware 6 developer • Full-stack engineer
 
-### About Me
+### What I’m doing
 
-🔭 I’m currently working with the Shopware e-commerce platform.
+- Building e-commerce sites with **Shopware**
+- Writing custom plugins and themes
+- Learning about performance and clean architecture
 
-💼 I’m open to collaborating on freelance projects, especially Shopware plugins.
+### Tech I use
 
-🎹 I like to travel, and sometimes I play my YamahaⓇ keyboard for fun.
+- PHP • Symfony • Shopware 6  
+- JavaScript • Vue • React 
+- MySQL • MariaDB  
+- Docker • GitHub Actions
 
-📚 I write about technology on my [blog](https://blog.huzaifamustafa.com).
+### A bit more
 
-💻 Even when I’m not working, you’ll probably find me coding, learning, or reading something tech-related.
+- I like to travel and play my Yamaha keyboard.  
+- When I’m not coding, I’m reading about new tech.
+
+### Work with me
 
 ### 📫 How to reach me
 
