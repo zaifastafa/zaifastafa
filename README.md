@@ -27,31 +27,31 @@
 
 ## About
 
-I build custom Shopware 6 solutions for B2B and D2C merchants and serve as a technical subcontractor for agencies that need Shopware depth without a full-time hire.
+I build custom Shopware 6 plugins and integrations for B2B and D2C merchants, and work as a technical subcontractor for agencies that need Shopware depth without hiring full-time.
 
-8+ years of exclusive Shopware focus. Core developer on the official [Findologic Shopware 6 plugin](https://github.com/findologic/plugin-shopware-6). Two merged upstream PRs to the Shopware core. 164+ plugins shipped across 96+ clients in DACH, UK, and US markets.
+8+ years of exclusive Shopware focus. Core developer on the official [Findologic Shopware 6 plugin](https://github.com/findologic/plugin-shopware-6) with 100+ merged PRs across the Findologic plugins and shared API client. Two merged upstream PRs into the Shopware core. 164+ plugins shipped across 96+ clients in DACH, UK, and US markets.
 
 ---
 
 ## Specialisations
 
 **Plugin development**
-Custom Shopware 6 plugins built to production standard, with unit tests and code coverage. All open-source work is publicly verifiable at [github.com/zaifastafa](https://github.com/zaifastafa). Upstream Shopware core contributions: [PR #16380](https://github.com/shopware/shopware/pull/16380) and [PR #16439](https://github.com/shopware/shopware/pull/16439).
+Custom Shopware 6 plugins with unit tests and code coverage. Open-source work lives at [github.com/zaifastafa](https://github.com/zaifastafa). Upstream Shopware core contributions: [PR #16380](https://github.com/shopware/shopware/pull/16380) and [PR #16219](https://github.com/shopware/shopware/pull/16219).
 
 **Custom import & export**
 High-volume product data pipelines, supplier feed processing (XML, CSV, API), automated sync with validation and error handling. One import system handled 269k+ product lines. WinArboR XML integration eliminated 3-4 hours of daily manual work for a DACH client.
 
 **ERP & API integration**
-Connecting Shopware to merchandise management platforms (WinArboR, JTL, and similar), payment providers, shipping carriers, and third-party services via REST and custom adapters.
+Connecting Shopware to merchandise management platforms (WinArboR, JTL), payment providers, shipping carriers, and third-party services via REST and custom adapters.
 
 **Custom functionality & checkout modifications**
-B2B pricing engines, RFQ systems, tender management flows built by modifying the Shopware checkout, approval workflows, cart logic, and admin extensions. Built on Shopware's extension architecture with clean PHP and Vue.js.
+B2B pricing engines, RFQ systems, tender management flows built by modifying the Shopware checkout, approval workflows, cart logic, and admin extensions.
 
 **Migrations & upgrades**
-Shopware 5 to 6 migrations and version upgrades (6.4 to 6.7) with data integrity, SEO continuity, and plugin compatibility as primary concerns.
+Shopware 5 to 6 migrations and version upgrades (6.4 to 6.7) without losing data, SEO rankings, or plugin compatibility.
 
 **Agency subcontracting**
-White-label Shopware execution. I work under your brand, communicate at your client's level, and deliver on agreed timelines. No exclusivity required.
+White-label Shopware development. I work under your brand, communicate at your client's level, and deliver on agreed timelines. No exclusivity required.
 
 ---
 
@@ -73,20 +73,35 @@ White-label Shopware execution. I work under your brand, communicate at your cli
 ## Work experience
 
 #### [Findologic Shopware 6 Plugin](https://github.com/findologic/plugin-shopware-6)
-Core developer on the official Findologic search and navigation plugin for Shopware 6. Built from scratch with unit tests and code coverage. Publicly available and verifiable.
+Core developer on the official Findologic search and navigation plugin for Shopware 6, with unit tests and code coverage. 100+ merged PRs across `plugin-shopware-6`, `plugin-shopware-5`, `findologic-api`, `libflexport`, and `plugin-shopware-6-extension` between 2019 and 2022.
 
 ---
 
 ## Open source
 
 #### [ElixDigiAdminGuard](https://github.com/zaifastafa/ElixDigiAdminGuard)
-Shopware 6 admin user audit and inactivity management plugin. Detects, flags, and optionally auto-disables inactive admin accounts with a full audit log, email notifications, and CSV export for GDPR compliance. Built and released as open source.
+Shopware 6 admin user audit and inactivity management plugin. Detects, flags, and optionally auto-disables inactive admin accounts with a full audit log, email notifications, and CSV export for GDPR compliance.
+
+---
+
+## Other public PR contributions
+
+Beyond Findologic, merged PRs into:
+
+- **shopware/shopware** — [#16380](https://github.com/shopware/shopware/pull/16380) (sw-date-filter Last Quarter year bug in Q1), [#16219](https://github.com/shopware/shopware/pull/16219) (admin menu flyout viewport overflow)
+- **shopware/docs** — [#660](https://github.com/shopware/docs/pull/660) (plugin base guide)
+- **shyim/shopware-docker** — [#138](https://github.com/shyim/shopware-docker/pull/138) (default Shopware CDN strategy), [#127](https://github.com/shyim/shopware-docker/pull/127) (remove DEFINER from SQL dump)
+- **mollie/Shopware6** — [#222](https://github.com/mollie/Shopware6/pull/222) (refunds array undefined check)
+- **FriendsOfShopware/FroshDevelopmentHelper** — [#27](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/pull/27) (breaking-block blacklist)
+- **Shape-and-Shift/shopware-cms-generator** — [#1](https://github.com/Shape-and-Shift/shopware-cms-generator/pull/1) (typo fix)
+
+The full Findologic contribution history (116 merged PRs) is searchable via the [author-scoped query](https://github.com/search?q=author%3Azaifastafa+is%3Apr+is%3Amerged+org%3Afindologic&type=pullrequests).
 
 ---
 
 ## Recent highlights
 
-- Merged two upstream PRs into the Shopware core fixing a last-quarter date boundary bug and a timezone edge case
+- Merged two upstream PRs into the Shopware core: a last-quarter date boundary bug fix and an admin menu flyout viewport overflow fix
 - Delivered ArDocumentOverview plugin (v1.0-v1.3.0) with full permission management and Vue state handling
 - Automated WinArboR XML supplier imports for a DACH B2B merchant, removing 3-4 hours of daily manual processing
 - Shipped ElixDigiAdminGuard as an open-source Shopware 6 admin audit plugin with inactivity tracking, auto-disable, and GDPR-ready audit logging
@@ -97,11 +112,11 @@ Shopware 6 admin user audit and inactivity management plugin. Detects, flags, an
 
 **Direct merchant projects** - Plugin development, ERP integrations, B2B builds, D2C customisations, migrations
 
-**Agency subcontracting** - White-label Shopware execution for non-specialist shops across DACH, UK, and US
+**Agency subcontracting** - White-label Shopware development for non-specialist shops across DACH, UK, and US
 
-**Long-term retainers** - Ongoing development and maintenance partnerships
+**Long-term retainers** - Ongoing maintenance and feature work
 
 **Currently available** · Full-time freelance · Serving DACH · UK · US
 
-> Shopware engagements operate under [Elixent Digital](https://www.elixentdigital.com).
-> Broader digital work is handled through [Synhex Solutions](https://www.synhex.solutions).
+> Shopware engagements run through [Elixent Digital](https://www.elixentdigital.com).
+> Broader digital work runs through [Synhex Solutions](https://www.synhex.solutions).
